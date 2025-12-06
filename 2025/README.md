@@ -16,8 +16,8 @@
   - [x] Part One
   - [x] Part Two
 - Day 6
-  - [ ] Part One
-  - [ ] Part Two
+  - [x] Part One
+  - [x] Part Two
 - Day 7
   - [ ] Part One
   - [ ] Part Two
