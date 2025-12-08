@@ -19,11 +19,11 @@
   - [x] Part One
   - [x] Part Two
 - Day 7
-  - [ ] Part One
-  - [ ] Part Two
+  - [x] Part One
+  - [x] Part Two
 - Day 8
-  - [ ] Part One
-  - [ ] Part Two
+  - [x] Part One
+  - [x] Part Two
 - Day 9
   - [ ] Part One
   - [ ] Part Two
