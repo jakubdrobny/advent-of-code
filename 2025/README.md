@@ -29,7 +29,7 @@
   - [ ] Part Two
 - Day 10
   - [x] Part One
-  - [ ] Part Two
+  - [x] Part Two
 - Day 11
   - [ ] Part One
   - [ ] Part Two
