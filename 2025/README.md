@@ -25,10 +25,10 @@
   - [x] Part One
   - [x] Part Two
 - Day 9
-  - [ ] Part One
+  - [x] Part One
   - [ ] Part Two
 - Day 10
-  - [ ] Part One
+  - [x] Part One
   - [ ] Part Two
 - Day 11
   - [ ] Part One
