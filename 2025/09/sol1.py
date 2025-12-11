@@ -15,6 +15,5 @@ for i in range(n):
         cur = (abs(points[i][0] - points[j][0]) + 1) * (
             abs(points[i][1] - points[j][1]) + 1
         )
-        print(cur)
         ans = max(ans, cur)
 print(ans)
